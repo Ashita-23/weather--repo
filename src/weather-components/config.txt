@@ -1,0 +1,36 @@
+
+
+const backImg = [
+    {
+      cloudy  bacgraoundImage1 : "url("https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=1600")"  
+
+      {
+        sunny bgImage : url("https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+      }
+    }
+
+    {
+        thander ngImage ; url("https://images.pexels.com/photos/1162251/pexels-photo-1162251.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    }
+
+    {
+        rainy bgImage: url("https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    }
+]
+
+
+icones {
+    <i class="fa-solid fa-sun-cloud"></i> --- sun cloudy
+<i class="fa-solid fa-sun-haze"></i>  --- sun haze
+<i class="fa-solid fa-sun-bright"></i>  ----- sun
+
+<i class="fa-solid fa-cloud-sun-rain"></i> - rainy
+
+<i class="fa-solid fa-cloud-bolt-sun"></i> -- thander
+
+<i class="fa-light fa-solar-system"></i>
+ 
+ 
+<i class="fa-solid fa-sun"></i> -- sun
+
+}
